@@ -1,0 +1,22 @@
+# Por qué desentradas
+
+En la actualidad, hay una crisis de los llamados “terceros espacios” o “[terceros lugares](https://en.wikipedia.org/wiki/Third_place)”. Un tercer lugar es un lugar que habitamos regularmente además de nuestra casa o lugar de trabajo. Algunos ejemplos son las bibliotecas, las cafeterías, los clubes sociales y las plazas, entre otros. 
+
+Los pocos terceros espacios que quedan suelen ser pagos, como los bares o las cafeterías. Es difícil encontrar terceros espacios gratuitos. 
+
+Una hipótesis es que la falta de terceros espacios gratuitos nazca de una falta de motivación en crearlos y sostenerlos. Por ejemplo, asistir a una reunión en una plaza cuando nadie más asiste sería incómodo, y faltar a una reunión suele ser la opción más cómoda. Sin embargo, si nadie inicia la participación y la mayoría falta a las reuniones libremente, el espacio no puede sostenerse.
+
+En ese contexto, es posible que un incentivo monetario ayude a incentivar la participación, al mismo tiempo que mantiene la gratuidad para los participantes. Las [desentradas](desentradas.pentomino.io) incentivarían sostener las reuniones cuando la participación es baja, y desincentivarían faltar y vaciar el tercer espacio. En otras palabras, contribuirían a alinear los incentivos individuales con el sostén del espacio gratuito. Al mismo tiempo, se preservaría la gratuidad de la participación para los asistentes.
+
+Un problema potencial de las desentradas es el efecto conocido como “[crowding out](https://apuntes.juanozaragoza.com/emociones-y-psicolog%C3%ADa/paradoja-de-los-incentivos-monetarios)” de la motivación. Según este efecto, recibir una pequeña recompensa monetaria por hacer algo para lo cual ya estábamos motivados puede reducir nuestra motivación de hacerlo. Por este motivo, el objetivo es aplicar desentradas a grupos nuevos, donde no existan otros factores que motiven la participación previamente.
+
+Creemos que sería más fácil aplicar desentradas a grupos que cumplan las siguientes condiciones:
+1. El tipo de eventos que proponga el grupo ya suele pagarse. Por ejemplo, un taller de teatro, un taller de filosofía o un taller de escritura son eventos para los que es común pagar por participar. Así, incorporar un elemento monetario no añadiría demasiada fricción y ni sería automáticamente rechazada, como sí podría serlo, por ejemplo, si se aplican desentradas para incentivar la asistencia a comidas familiares.
+2. No existen otros incentivos previos que motiven la participación del grupo antes de aplicar las desentradas. En particular, no existen [códigos comunitarios](https://apuntes.juanozaragoza.com/tejidos-y-fundamentos/reconocimiento) preexistentes que fomenten la participación.
+3. Es posible [limitar la participación](https://apuntes.juanozaragoza.com/tejidos-y-fundamentos/excluibilidad) a quienes hayan aportado al grupo, a fin de prevenir freeriders o [polizones](https://es.wikipedia.org/wiki/Problema_del_poliz%C3%B3n), es decir, personas que se aprovechen de los aportes de los demás.
+
+El experimento de las desentradas se enmarca en el proyecto de probar sistemas de cooperación alternativos. En particular, contar con transacciones colectivas, es decir, pagos y cobros grupales, permitiría prevenir [externalidades](https://apuntes.juanozaragoza.com/tejidos-y-fundamentos/externalidad) y afrontar varios problemas de la economía actual. Sin embargo, traducir esa observación teórica a formas concretas de aportar valor a quienes participen del sistema es difícil. Las desentradas son una posible primera iteración de este tipo de transacciones.
+
+En su versión inicial, las desentradas se apoyan en la confianza mutua para registrar la participación de los eventos y garantizar los pagos de las deudas. Esta hipótesis es razonable en grupos pequeños, y podemos sostenerla mientras validamos la hipótesis de que las desentradas son una herramienta útil. Sin embargo, esta primera versión se apoya en la confianza colectiva, lo cual [no es escalable](https://apuntes.juanozaragoza.com/tejidos-y-fundamentos/el-reconocimiento-no-escala). Si las desentradas funcionan, dos desafíos futuros son:
+1. Incorporar un método de validación descentralizada para registrar la participación de los eventos en forma confiable en grupos grandes.
+2. Incorporar un método para motivar el pago de las deudas, que podría incluir o bien alguna forma de garantía o colateral solidario, o bien algún modo de procesar pagos para permitir anticipos o depósitos.
