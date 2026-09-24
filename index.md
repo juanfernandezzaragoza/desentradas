@@ -18,4 +18,4 @@ Más abajo podés leer algunos detalles de cómo funciona el sistema.
 3. Si faltaste y pagaste tu desentrada a tiempo, podés faltar al siguiente evento. Quedás libre de pagar desentradas hasta después de volver a asistir.
 4. Si faltás tres veces seguidas, se asume que ya no querés participar.
 
-También podés leer [por qué las desentradas](/about) y ver un [diagrama de estados](/funcionamiento) que detalla cómo funciona el sistema.
+También podés leer [por qué las desentradas](/about) y ver un [diagrama de estados](/funcionamiento) que detalla su funcionamiento.
